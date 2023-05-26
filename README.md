@@ -3,17 +3,27 @@ The goal of this project is to create full stack application social media app us
 
 # Front end technologies : 
  we will use  nextjs for as front end library for the following reasons:
+ server side rendering 
+ 
 
 
 
 # Back end technologies : 
  we will use express js as back end server  
  we will use  [mongodb - mySql ] for databases
+ 
+ 
+ 
  ## Databases: 
     mongodb
     blockchain technolgoies
  
  # AI technologies : 
   ## Facial detection : tensorflow js 
+     
+  
+     
   ## Friendship recommendation : greedy approch [implement the algorithm by hand]
  
+
+
