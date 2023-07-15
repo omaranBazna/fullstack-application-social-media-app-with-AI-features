@@ -24,5 +24,6 @@ https://app.diagrams.net/#G1UjFNp1LIaAJy7Oh2MuieQLSevxtbrZMP
      
   ## Friendship recommendation : greedy approch [implement the algorithm by hand]
  
+![Untitled Diagram drawio](https://github.com/omaranBazna/fullstack-application-social-media-app-with-AI-features/assets/100542103/a8956c00-33c6-44ec-a5dc-78f15b94cbbc)
 
 
